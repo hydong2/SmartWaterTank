@@ -1,0 +1,23 @@
+# Build output folders
+Debug/
+Release/
+
+# IDE-specific settings
+.settings/
+.metadata/
+
+# Build artifacts
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.log
+
+# Backup files
+*~
+
+# OS-specific
+.DS_Store
+Thumbs.db
